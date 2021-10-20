@@ -35,4 +35,30 @@ public void testCreateCustomer() throws InterruptedException, EncryptedDocumentE
 	
 	
 }
+@Test
+public void testDeleteCustomer() {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
